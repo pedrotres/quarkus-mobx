@@ -1,5 +1,5 @@
 
-# Tutorial: Criando um CRUD utilizando Quarkus Java + REST + CDI + Panache, Hibernate com Postgres (Docker) + Postman
+# Criando um CRUD utilizando Quarkus Java + REST + CDI + Panache, Hibernate com Postgres (Docker) + Postman
 
 <!-- PROJECT LOGO -->
 <br />
@@ -10,11 +10,6 @@
 </p>
 
 ![Lista de Repositórios](/assets/quarkus-logo.png)
-
-## Link para os Artigos
-- [Linkedin Pulse](https://www.linkedin.com/pulse/tutorial-criando-um-crud-utilizando-quarkus-java-rest-da-silva-melo/) : https://www.linkedin.com/pulse/tutorial-criando-um-crud-utilizando-quarkus-java-rest-da-silva-melo/
-
-- [Medium](https://medium.com/@marcus.paulo/tutorial-criando-um-crud-utilizando-quarkus-java-rest-cdi-panache-hibernate-com-postgres-59793e0d7162) : https://medium.com/@marcus.paulo/tutorial-criando-um-crud-utilizando-quarkus-java-rest-cdi-panache-hibernate-com-postgres-59793e0d7162
 
 <!-- TABLE OF CONTENTS -->
 
@@ -35,10 +30,6 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Sobre o Projeto
-
-Tutorial: Criando um CRUD utilizando Quarkus Java + REST + CDI + Panache, Hibernate com Postgres (Docker) + Postman
-
 ### Feito Com
 
 Tecnologias utilizadas no projeto
@@ -47,12 +38,6 @@ Tecnologias utilizadas no projeto
 - [Quarkus](https://quarkus.io/) - A Red Hat lançou o Quarkus, um framework Java nativo do Kubernetes feito sob medida para o GraalVM e OpenJDK HotSpot. O Quarkus visa tornar o java uma plataforma líder em ambientes serverless e Kubernetes, oferecendo aos desenvolvedores um modelo unificado de programação reativa e imperativa;
 
 <!-- GETTING STARTED -->
-
-## Começando
-
-Para reproduzir o exemplo, é necessário seguir os requisitos mínimos.
-
-### Pré-requisitos
 
  - Você vai precisar de uma IDE como por exemplo: IntelliJ IDEA, Eclipse, VSCode.
  - Instale a JDK 8 or 11+
@@ -143,16 +128,6 @@ mvn compile quarkus:dev
 
 <!-- CONTRIBUTING -->
 
-## Contribuição
-
-Fique a vontade para contribuir com o projeto.
-
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/newFeature`)
-3. Adicione suas mudanças (`git add .`)
-4. Comite suas mudanças (`git commit -m 'Nova funcionalidade para facilitar ...`)
-5. Faça o Push da Branch (`git push origin feature/newFeature`)
-6. Abra um Pull Request
 
 <!-- LICENSE -->
 
@@ -161,7 +136,3 @@ Fique a vontade para contribuir com o projeto.
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 <!-- CONTACT -->
-
-## Contato
-
-Marcus Paulo - [Github](https://github.com/marcuspaulo)
